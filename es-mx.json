@@ -1,0 +1,8 @@
+{
+  "Greeting" : "Bienvenido a su página de inicio {{user_name}}! como podemos ayudarte? EDITADO EDITADO",
+  "Returning" : "Bienvenido, cliente regresando! ¿Cómo podemos tenerte?",
+  "Warning" : "¡Asegúrate de guardar todo el contenido antes de cerrar la sesión!",
+  "Contact" : "Contáctanos en google.",
+  "Login" : "¿Ya tienes una cuenta? Clic aquí para ingresar.",
+  "Forgot password" : "Haga clic aquí para restablecer la contraseña."
+}
